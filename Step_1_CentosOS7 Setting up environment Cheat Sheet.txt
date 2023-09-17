@@ -1,4 +1,4 @@
-# 1. Install VMware Workstation https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html
+1. Install VMware Workstation https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html
 (KEY: JA09H-4V15H-M80V8-8A8Z4-2U8N4)
 2. Click on Create new VM
 3. Click on Custom(advanced)
@@ -27,9 +27,9 @@
 26. Click Use iso image ### NOTE: for downloading iso file use this link (http://isoredirect.centos.org/centos/7/isos/x86_64/)
 27. Select iso from the downloads
 28. Click  run vm
-# ###### Done Setting Up environment For CentOS7 ######
+###### Done Setting Up environment For CentOS7 ######
 
-# If you are facing any difficulties use these links=====>>>>>
+If you are facing any difficulties use these links=====>>>>>
 
 https://www.youtube.com/watch?v=L9B6EU8JiS0
 
