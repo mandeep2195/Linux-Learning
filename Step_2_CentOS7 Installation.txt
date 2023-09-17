@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1. Press Enter to start installing
 2. Select language
 3. On installation summary Click on Installation Source
@@ -30,36 +29,3 @@ https://www.tecmint.com/centos-7-installation/#:~:text=After%20you%20have%20crea
 
 http://isoredirect.centos.org/centos/7/isos/x86_64/
 
-=======
-1. Press Enter to start installing
-2. Select language
-3. On installation summary Click on Installation Source
-4. Select Auto detected installation media then click done
-5. Select Software Selection, Select Server with GUI then click done
-6. Select installation destination menu, select I will configure partitioning, click done
-7. Now select LVM and click on Click here to create them automatically, Click done
-8. Now Accept Changes 
-9. Click on Network & Hostname Menu, in Hostname-- type (server.centos.lan), Click apply
-10. Click on configure
-11. Go in General Tab and Select automatically connect to this network when it is available, Click on Save
-12. Now Turn the Ethernet Switch On (TOP RIGHT CORNER), Select DONE
-13. On main menu Select Begin installation
-14. On installation Screen Click on Root Password and create a Root Password, Click Done 
-15. On installation Screen Click on User Creation, Enter Fullname, Username, Select make this user administrator and require a password to use this account
-16. Enter the password for the user and confirm it
-17. Wait for the installation to end
-18. Click on Reboot
-19. Select Licence Information 
-20. Accept licence
-21. Click on done then click on finish configuration
-###### Done installing CentOS7 ######
-
-If you are facing any difficulties use these links=====>>>>>
-
-https://www.youtube.com/watch?v=L9B6EU8JiS0
-
-https://www.tecmint.com/centos-7-installation/#:~:text=After%20you%20have%20created%20the,and%20press%20%5BEnter%5D%20key
-
-http://isoredirect.centos.org/centos/7/isos/x86_64/
-
->>>>>>> 444d904 (Added LVM Linux Part 6 Cheat Sheet)
